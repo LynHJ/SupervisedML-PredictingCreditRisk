@@ -63,7 +63,7 @@ Supervised Machine Learning
    
 ### Summary:
 
-<ins>##### Predicting</ins>:  
+##### <ins> Predicting</ins>:  
 
 This process will run two models on this data: a Logistic Regression, and a Random Forests Classifier.   
 
@@ -71,7 +71,7 @@ At first glance, the data has 6 features, all data types are numeric. However so
 
 In my opinion, the performance of Logistic Regression's prediction could be better as Random Forest Classifier would performance better when the data set has many variables.  
 
-<ins>##### Conclusion</ins>:  
+##### <ins>Conclusion</ins>:  
 
 Compared to two results from two different classifiers, the output is the same as my prediction.  The Logistic Regression model had a higher accuracy score 0.92 while the Random Forest Classifier model had 0.86.  
 
